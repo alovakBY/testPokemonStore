@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pokemon-online-store/static/css/main.98c44297.css",
+    "main.js": "/Pokemon-online-store/static/js/main.c677d1ee.js",
+    "index.html": "/Pokemon-online-store/index.html",
+    "main.98c44297.css.map": "/Pokemon-online-store/static/css/main.98c44297.css.map",
+    "main.c677d1ee.js.map": "/Pokemon-online-store/static/js/main.c677d1ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c44297.css",
+    "static/js/main.c677d1ee.js"
+  ]
+}
